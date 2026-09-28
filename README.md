@@ -1,1 +1,1 @@
-GitHub practice for 2027 FRC season
+The quick brown fox jumps over the lazy dog
